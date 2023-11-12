@@ -1,0 +1,11 @@
+- Phyton -> OOP
+
+- Identifier/name menunjuk ke objek. = itu untuk ngasih tau nama itu mengacu ke siapa. bisa pasang alias.
+
+- identifier itu case sensitive
+phyton -> dynamically typed (ga pake tipe di depan identifier). tapi objeknya tetap ada tipenya.
+
+- untuk buat objek -> panggil constructor. ada built in class yang bisa ditulis secara literal. ada method yang
+  menghasilkan objek juga.
+
+- built in class di python ada yang bersifat immutable dan ada yang mutable

@@ -1,0 +1,14 @@
+String memiliki banyak fungsi yang berguna:
+count(str) mengembalikan berapa kali substring str muncul dalam string yang diberikan.
+upper () mengubah string menjadi huruf besar.
+lebih rendah () mengubah string menjadi huruf kecil.
+replace(old, new) mengganti semua kemunculan old dengan new .
+len(str) mengembalikan panjang string (jumlah karakter).
+
+x = "This is some text"
+
+print(x.count("s"))
+print(x.upper())
+print(x.lower())
+print(x.replace("some text", "awesome"))
+print(len(x)) 
